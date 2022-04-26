@@ -21,6 +21,8 @@
 		<link rel="profile" href="https://gmpg.org/xfn/11">
 
 		<?php wp_head(); ?>
+		<script>alert("this is test");
+			</script>
 
 	</head>
 
