@@ -22,7 +22,7 @@
 
 <body <?php body_class(); ?>>
 <h2><?php echo "This is 2022 theme" ?></h2>
-
+<h3>Praveen is here</h3>
 <?php wp_body_open(); ?>
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'twentytwentyone' ); ?></a>
